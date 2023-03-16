@@ -22,7 +22,7 @@ $ pkg install git -y
 
 ```
 
-$ git clone https://github.com/Stephin-Franklin/T-Phish
+$ git clone https://github.com/blackserver3301/MR.R.git
 
 ```
 
@@ -60,5 +60,5 @@ $ ./start.sh
 
 $ ./rith.sh
 
-```
+
 
